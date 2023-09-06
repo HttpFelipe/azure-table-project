@@ -1,5 +1,7 @@
 # Azure Table Project - API de Contatos
 
+<img src="https://www.viperit.com.br/wp-content/uploads/2021/12/blog-azure-1200x628-min.png">
+
 Este é um projeto que implementa uma API para gerenciar uma tabela de contatos usando o serviço Azure Table Storage. A API permite criar, atualizar, listar, obter por nome e deletar contatos armazenados na tabela.
 
 # Configuração
